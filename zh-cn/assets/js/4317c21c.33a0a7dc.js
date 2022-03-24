@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchunjun_web=self.webpackChunkchunjun_web||[]).push([[945],{8467:function(n){n.exports=JSON.parse('{"allTagsPath":"/chunjun-web/zh-cn/blog/tags","slug":"/chunjun-web/zh-cn/blog/tags/principle","name":"Principle","count":2,"permalink":"/chunjun-web/zh-cn/blog/tags/principle"}')}}]);
