@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dtstack.github.io/chunjun-web/chunjun-web/blog"/>
     <subtitle>ChunJun 纯钧 Blog</subtitle>
-    <icon>https://dtstack.github.io/chunjun-web/chunjun-web/img/favicon.ico</icon>
+    <icon>https://dtstack.github.io/chunjun-web/chunjun-web/img/logo-dark.svg</icon>
     <entry>
         <title type="html"><![CDATA[任务脏数据插件化管理]]></title>
         <id>dirty-data-management</id>
